@@ -1,10 +1,13 @@
-MODEL RULES AND GUIDANCE NOTES
+# MODEL RULES AND GUIDANCE NOTES
+
 This document includes additional summaries of the obligations arising from the Associations
 Incorporation Act 2015 and other explanatory material. These are presented in the form of ‘Guidance
 Notes’ and ‘Act Requirements’. These summaries do not form part of the model rules. They have
 been included to assist associations adopting the model rules or modifying them to create a set of
 own rules to understand each of the various requirements.
-Note for these rules:
+
+## Note for these rules:
+
 If an association or incorporated association approves the adoption of these model rules as its own rules,
 section 7(4) or 29(5) of the Act, as appropriate, requires the association or incorporated association to notify
 the Commissioner of the following information —
@@ -27,8 +30,11 @@ a committee meeting.
 E. The association’s financial year will be the period of 12 months commencing on ……………………..and
 ending on……………………………… of each year.
 
-PART 1 — PRELIMINARY
-1. Terms used
+## PART 1 - PRELIMINARY
+
+
+#### 1. Terms used
+
 In these rules, unless the contrary intention appears —
 Act means the Associations Incorporation Act 2015;
 associate member means a member with the rights referred to in rule 8(6);
@@ -78,14 +84,19 @@ tier 1 association means an incorporated association to which section 64(1) of t
 tier 2 association means an incorporated association to which section 64(2) of the Act applies;
 tier 3 association means an incorporated association to which section 64(3) of the Act applies;
 treasurer means the committee member holding office as the treasurer of the Association.
-2. Financial year
+
+#### 2. Financial year
+
 (1) The first financial year of the Association is to be the period notified to the Commissioner under
 section 7(4)(e) or, if relevant, section 29(5)(e) of the Act.
 (2) Each subsequent financial year of the Association is the period of 12 months commencing at the
 termination of the first financial year or the anniversary of that termination.
 
-PART 2 — ASSOCIATION TO BE NOT FOR PROFIT BODY
-3. Not-for-profit body
+## PART 2 - ASSOCIATION TO BE NOT FOR PROFIT BODY
+
+
+#### 3. Not-for-profit body
+
 (1) The property and income of the Association must be applied solely towards the promotion of
 the objects or purposes of the Association and no part of that property or income may be
 paid or otherwise distributed, directly or indirectly, to any member, except in good faith in the
@@ -112,7 +123,8 @@ Act Requirements – Powers of Incorporated Association - Under section 14 of th
 all things necessary or convenient for carrying out its objects or purposes. Section 14(1)(a)-(g) provides
 particular examples.
 
-PART 3 — MEMBERS
+## PART 3 - MEMBERS
+
 Act Requirements - Membership - Under sections 4 and 17 of the Act an association must always have at least
 6 members with full voting rights.
 Act Requirements – Liabilities of the association - Under section 19 of the Act a member of the management
@@ -120,8 +132,12 @@ committee, trustee or a member of the association is not liable in respect of th
 This does not apply to liabilities incurred by or on behalf of the association prior to incorporation.
 Guidance Note – Liability of Members - A member is only liable for their own outstanding membership fees (if
 any) payable under rule 12.
-Division 1 — Membership
-4. Eligibility for membership
+
+### Division 1 - Membership
+
+
+#### 4. Eligibility for membership
+
 (1) Any person who supports the objects or purposes of the Association is eligible to apply to
 become a member.
 (2) An individual who has not reached the age of 15 years is not eligible to apply for a class of
@@ -130,13 +146,17 @@ Guidance Note – Eligibility for membership
 • The by-laws may require members to hold specified educational, trade or professional qualifications.
 • The association must comply with all legal and regulatory obligations that may apply to the
 association under any other law when assessing eligibility of an applicant for membership.
-5. Applying for membership
+
+#### 5. Applying for membership
+
 (1) (2) (3) A person who wants to become a member must apply in writing to the Association.
 The application must include a member’s nomination of the applicant for membership.
 The application must be signed by the applicant and the member nominating the applicant.
 (4) The applicant must specify in the application the class of membership, if there is more than
 one, to which the application relates.
-6. Dealing with membership applications
+
+#### 6. Dealing with membership applications
+
 (1) (2) (3) (4) The committee must consider each application for membership of the Association and decide
 whether to accept or reject the application.
 Subject to subrule (3), the committee must consider applications in the order in which they
@@ -155,7 +175,9 @@ The committee must notify the applicant of the committee’s decision to accept 
 application as soon as practicable after making the decision.
 If the committee rejects the application, the committee is not required to give the applicant its
 reasons for doing so.
-7. Becoming a member
+
+#### 7. Becoming a member
+
 An applicant for membership of the Association becomes a member when —
 (a) (b) the committee accepts the application; and
 the applicant pays any membership fees payable to the Association under rule 12.
@@ -168,7 +190,9 @@ membership commences.
 Guidance note – Format of rules provided - It is acceptable for the association to provide a copy of the rules to
 new members by electronic transmission or providing the details for the website whether the rules may be
 downloaded. A hard copy must be provided if the member requests that the rules be provided in that manner.
-8. Classes of membership
+
+#### 8. Classes of membership
+
 (1) The Association consists of ordinary members and any associate members provided for
 under subrule (2).
 (2) The Association may have any class of associate membership approved by resolution at a
@@ -187,7 +211,9 @@ Guidance Note - Voting rights of Members
 • Each ordinary member of the Association that is a body corporate has one vote at a general meeting
 of the Association.
 
-9. When membership ceases
+
+#### 9. When membership ceases
+
 (1) A person ceases to be a member when any of the following takes place —
 (a) (b) (c) (d) (e) for a member who is an individual, the individual dies;
 for a member who is a body corporate, the body corporate is wound up;
@@ -198,7 +224,9 @@ the person ceases to be a member under rule 12(4).
 member, of —
 (a) (b) the date on which the person ceased to be a member; and
 the reason why the person ceased to be a member.
-10. Resignation
+
+#### 10. Resignation
+
 (1) A member may resign from membership of the Association by giving written notice of the
 resignation to the secretary.
 (2) The resignation takes effect —
@@ -208,10 +236,16 @@ resignation to the secretary.
 that are owed to the Association (the owed amount) at the time of resignation.
 (4) The owed amount may be recovered by the Association in a court of competent jurisdiction as
 a debt due to the Association.
-11. Rights not transferable
+
+#### 11. Rights not transferable
+
 The rights of a member are not transferable and end when membership ceases.
-Division 2 — Membership fees
-12. Membership fees
+
+### Division 2 - Membership fees
+
+
+#### 12. Membership fees
+
 (1) The committee must determine the entrance fee (if any) and the annual membership fee (if
 any) to be paid for membership of the Association.
 (2) The fees determined under subrule (1) may be different for different classes of membership.
@@ -226,8 +260,12 @@ membership fee after the period referred to in that subrule has expired —
 (b) if the payment is accepted, the person’s membership is reinstated from the date the
 payment is accepted.
 
-Division 3 — Register of members
-13. Register of members
+
+### Division 3 - Register of members
+
+
+#### 13. Register of members
+
 Act Requirements – Register of members
 Section 53 of the Act requires an incorporated association to maintain a register of its members and record
 in the register any change in the membership of the association. Any change to the register must be
@@ -258,14 +296,23 @@ the committee may require the member to provide a statutory declaration setting 
 purpose for which the copy or extract is required and declaring that the purpose is connected
 with the affairs of the Association.
 
-PART 4 — DISCIPLINARY ACTION, DISPUTES AND MEDIATION
-Division 1 — Term used
-14. Term used: member
+## PART 4 - DISCIPLINARY ACTION, DISPUTES AND MEDIATION
+
+
+### Division 1 - Term used
+
+
+#### 14. Term used: member
+
 In this Part —
 member.
 member, in relation to a member who is expelled from the Association, includes former
-Division 2 — Disciplinary action
-15. Suspension or expulsion
+
+### Division 2 - Disciplinary action
+
+
+#### 15. Suspension or expulsion
+
 (1) The committee may decide to suspend a member’s membership or to expel a member from
 the Association if —
 (a) the member contravenes any of these rules; or
@@ -301,7 +348,9 @@ the parties to the mediation.
 
 Guidance Note – Suspension or expulsion of a Member - Once the committee has decided to suspend or expel
 a member under rule 15(5) the member is immediately suspended or expelled.
-16. Consequences of suspension
+
+#### 16. Consequences of suspension
+
 (1) During the period a member’s membership is suspended, the member —
 (a) loses any rights (including voting rights) arising as a result of membership; and
 (b) is not entitled to a refund, rebate, relief or credit for membership fees paid, or
@@ -313,8 +362,12 @@ the date on which the suspension takes effect; and
 the period of the suspension.
 (3) When the period of the suspension ends, the secretary must record in the register of
 members that the member’s membership is no longer suspended.
-Division 3 — Resolving disputes
-17. Terms used
+
+### Division 3 - Resolving disputes
+
+
+#### 17. Terms used
+
 In this Division —
 grievance procedure means the procedures set out in this Division;
 party to a dispute includes a person –
@@ -323,15 +376,21 @@ who ceases to be a member within 6 months before the dispute has come to the
 attention of each party to the dispute.
 Guidance Note - Resolving disputes
 • For the purposes of rules 17 and 18, the term this Division relates to rules 19 – 21.
-18. Application of Division
+
+#### 18. Application of Division
+
 The procedure set out in this Division (the grievance procedure) applies to disputes —
 (a) between members; or
 (b) between one or more members and the Association.
-19. Parties to attempt to resolve dispute
+
+#### 19. Parties to attempt to resolve dispute
+
 The parties to a dispute must attempt to resolve the dispute between themselves within 14 days after
 the dispute has come to the attention of each party.
 
-20. How grievance procedure is started
+
+#### 20. How grievance procedure is started
+
 (1) If the parties to a dispute are unable to resolve the dispute between themselves within the
 time required by rule 19, any party to the dispute may start the grievance procedure by giving
 written notice to the secretary of —
@@ -353,7 +412,9 @@ any party to the dispute gives written notice to the secretary stating that the 
 (i) does not agree to the dispute being determined by the committee; and
 (ii) requests the appointment of a mediator under rule 23,
 the committee must not determine the dispute.
-21. Determination of dispute by committee
+
+#### 21. Determination of dispute by committee
+
 (1) At the committee meeting at which a dispute is to be considered and determined, the
 committee must —
 (a) give each party to the dispute, or the party’s representative, a reasonable opportunity
@@ -369,16 +430,22 @@ determination under subrule (1)(c), give written notice to the secretary request
 appointment of a mediator under rule 23.
 (4) If notice is given under subrule (3), each party to the dispute is a party to the mediation.
 
-Division 4 — Mediation
+
+### Division 4 - Mediation
+
 Guidance Note - Mediation
 • For the purposes of rule 22, the term this Division relates to rules 22-25.
-22. Application of Division
+
+#### 22. Application of Division
+
 (1) This Division applies if written notice has been given to the secretary requesting the
 appointment of a mediator —
 (a) by a member under rule 15(7); or
 (b) by a party to a dispute under rule 20(5)(b)(ii) or 21(3).
 (2) If this Division applies, a mediator must be chosen or appointed under rule 23.
-23. Appointment of mediator
+
+#### 23. Appointment of mediator
+
 (1) The mediator must be a person chosen —
 (a) if the appointment of a mediator was requested by a member under rule 15(7) — by
 agreement between the Member and the committee; or
@@ -397,7 +464,9 @@ members and the Association.
 the Association but must not —
 (a) have a personal interest in the matter that is the subject of the mediation; or
 (b) be biased in favour of or against any party to the mediation.
-24. Mediation process
+
+#### 24. Mediation process
+
 (1) The parties to the mediation must attempt in good faith to settle the matter that is the subject
 of the mediation.
 (2) Each party to the mediation must give the mediator a written statement of the issues that
@@ -419,7 +488,9 @@ Note for this rule:
 Section 182(1) of the Act provides that an application may be made to the State Administrative Tribunal to
 have a dispute determined if the dispute has not been resolved under the procedure provided for in the
 incorporated association’s rules.
-25. If mediation results in decision to suspend or expel being revoked
+
+#### 25. If mediation results in decision to suspend or expel being revoked
+
 If —
 (a) mediation takes place because a member whose membership is suspended or who is
 expelled from the Association gives notice under rule 15(7); and
@@ -428,9 +499,14 @@ expel the member is revoked,
 that revocation does not affect the validity of any decision made at a committee meeting or
 general meeting during the period of suspension or expulsion.
 
-PART 5 — COMMITTEE
-Division 1 — Powers of Committee
-26. Committee
+## PART 5 - COMMITTEE
+
+
+### Division 1 - Powers of Committee
+
+
+#### 26. Committee
+
 (1) The committee members are the persons who, as the management committee of the
 Association, have the power to manage the affairs of the Association.
 (2) Subject to the Act, these rules, the by-laws (if any) and any resolution passed at a general
@@ -438,8 +514,12 @@ meeting, the committee has power to do all things necessary or convenient to be 
 proper management of the affairs of the Association.
 (3) The committee must take all reasonable steps to ensure that the Association complies with
 the Act, these rules and the by-laws (if any).
-Division 2 — Composition of Committee and duties of members
-27. Committee members
+
+### Division 2 - Composition of Committee and duties of members
+
+
+#### 27. Committee members
+
 (1) The committee members consist of —
 (a) (b) the office holders of the Association; and
 at least one ordinary committee member.
@@ -489,12 +569,16 @@ or her duties-
 association must not improperly use the information to-
 (a) gain an advantage for the person or another person; or
 (b) cause detriment to the Association.
-28. Chairperson
+
+#### 28. Chairperson
+
 (1) It is the duty of the chairperson to consult with the secretary regarding the business to be
 conducted at each committee meeting and general meeting.
 (2) The chairperson has the powers and duties relating to convening and presiding at committee
 meetings and presiding at general meetings provided for in these rules.
-29. Secretary
+
+#### 29. Secretary
+
 The Secretary has the following duties —
 (a) dealing with the Association’s correspondence;
 (b) consulting with the chairperson regarding the business to be conducted at each
@@ -518,7 +602,9 @@ records, financial statements and financial reports, as applicable to the Associ
 committee.
 Guidance note – Record of Office Holders - detailed information about what must be included in the record of
 office holders is included under rule 68.
-30. Treasurer
+
+#### 30. Treasurer
+
 The treasurer has the following duties —
 (a) ensuring that any amounts payable to the Association are collected and issuing
 receipts for those amounts in the Association’s name;
@@ -542,12 +628,18 @@ Division 5 of the Act;
 (i) carrying out any other duty given to the treasurer under these rules or by the
 committee.
 
-Division 3 — Election of committee members and tenure of office
-31. How members become Committee members
+
+### Division 3 - Election of committee members and tenure of office
+
+
+#### 31. How members become Committee members
+
 A member becomes a committee member if the member —
 (a) (b) is elected to the committee at a general meeting; or
 is appointed to the committee by the committee to fill a casual vacancy under rule 38.
-32. Nomination of committee members
+
+#### 32. Nomination of committee members
+
 (1) At least 42 days before an annual general meeting, the secretary must send written notice to
 all the members —
 (a) calling for nominations for election to the committee; and
@@ -561,7 +653,9 @@ secretary at least 28 days before the annual general meeting.
 an ordinary committee member.
 (5) A member whose nomination does not comply with this rule is not eligible for election to the
 committee unless the member is nominated under rule 33(2) or 34(2)(b).
-33. Election of office holders
+
+#### 33. Election of office holders
+
 (1) At the annual general meeting, a separate election must be held for each position of office
 holder of the Association.
 (2) If there is no nomination for a position, the chairperson of the meeting may call for
@@ -577,7 +671,9 @@ for the position.
 (7) On the member’s election, the new chairperson of the Association may take over as the
 chairperson of the meeting.
 
-34. Election of ordinary committee members
+
+#### 34. Election of ordinary committee members
+
 (1) At the annual general meeting, the Association must decide by resolution the number of
 ordinary committee members (if any) to hold office for the next year.
 (2) If the number of members nominating for the position of ordinary committee member is not
@@ -595,7 +691,9 @@ been determined by the committee to decide the members who are to be elected to 
 position of ordinary committee member.
 (4) A member who has nominated for the position of ordinary committee member may vote in
 accordance with that nomination.
-35. Term of office
+
+#### 35. Term of office
+
 (1) (2) (3) The term of office of a committee member begins when the member —
 (a) (b) is elected at an annual general meeting or under subrule 36(3)(b); or
 is appointed to fill a casual vacancy under rule 38.
@@ -605,7 +703,9 @@ A committee member may be re-elected.
 Guidance Note – Committee members upon incorporation - The committee members appointed on
 incorporation of the association will hold office until the conclusion of the first annual general meeting of the
 association and will be eligible for re-election.
-36. Resignation and removal from office
+
+#### 36. Resignation and removal from office
+
 (1) A committee member may resign from the committee by written notice given to the secretary
 or, if the resigning member is the secretary, given to the chairperson.
 (2) The resignation takes effect —
@@ -621,7 +721,9 @@ may ask that the representations be provided to the members.
 (5) The secretary or chairperson may give a copy of the representations to each member or, if
 they are not so given, the committee member may require them to be read out at the general
 meeting at which the resolution is to be considered.
-37. When membership of committee ceases
+
+#### 37. When membership of committee ceases
+
 A person ceases to be a committee member if the person —
 (a) dies or otherwise ceases to be a member; or
 (b) resigns from the committee or is removed from office under rule 36; or
@@ -639,7 +741,9 @@ Act requirements – handing over documents and records – where a person cease
 association’s committee section 41 of the Act requires that person to, as soon as practicable after their
 membership ceases, deliver to a member of the committee all of the relevant documents and records they
 hold pertaining to the management of the association’s affairs.
-38. Filling casual vacancies
+
+#### 38. Filling casual vacancies
+
 (1) The committee may appoint a member who is eligible under rule 27(4) to fill a position on the
 committee that —
 (a) has become vacant under rule 37; or
@@ -653,12 +757,16 @@ despite any vacancy in its membership.
 committee may act only for the purpose of —
 (a) appointing committee members under this rule; or
 (b) convening a general meeting.
-39. Validity of acts
+
+#### 39. Validity of acts
+
 The acts of a committee or subcommittee, or of a committee member or member of a subcommittee,
 are valid despite any defect that may afterwards be discovered in the election, appointment or
 qualification of a committee member or member of a subcommittee.
 
-40. Payments to committee members
+
+#### 40. Payments to committee members
+
 (1) In this rule —
 committee member includes a member of a subcommittee;
 committee meeting includes a meeting of a subcommittee.
@@ -667,8 +775,12 @@ pocket expenses for travel and accommodation properly incurred —
 (a) in attending a committee meeting or
 (b) in attending a general meeting; or
 (c) otherwise in connection with the Association’s business.
-Division 4 — Committee meetings
-41. Committee meetings
+
+### Division 4 - Committee meetings
+
+
+#### 41. Committee meetings
+
 (1) The committee must meet at least 3 times in each year on the dates and at the times and
 places determined by the committee.
 (2) The date, time and place of the first committee meeting must be determined by the committee
@@ -676,7 +788,9 @@ members as soon as practicable after the annual general meeting at which the com
 members are elected.
 (3) Special committee meetings may be convened by the chairperson or any 2 committee
 members.
-42. Notice of committee meetings
+
+#### 42. Notice of committee meetings
+
 (1) Notice of each committee meeting must be given to each committee member at least 48
 hours before the time of the meeting.
 (2) The notice must state the date, time and place of the meeting and must describe the general
@@ -685,7 +799,9 @@ nature of the business to be conducted at the meeting.
 business described in the notice.
 (4) Urgent business that has not been described in the notice may be conducted at the meeting if
 the committee members at the meeting unanimously agree to treat that business as urgent.
-43. Procedure and order of business
+
+#### 43. Procedure and order of business
+
 (1) The chairperson or, in the chairperson’s absence, the deputy-chairperson must preside as
 chairperson of each committee meeting.
 (2) If the chairperson and deputy chairperson are absent or are unwilling to act as chairperson of
@@ -720,7 +836,9 @@ in a matter being considered at a meeting of the management committee must not b
 matter is being considered at the meeting or vote on the matter.
 Under section 42(6) of the Act the association must record every disclosure made by a committee member of a
 material personal interest in the minutes of the committee meeting at which the disclosure is made.
-44. Use of technology to be present at committee meetings
+
+#### 44. Use of technology to be present at committee meetings
+
 (1) The presence of a committee member at a committee meeting need not be by attendance in
 person but may be by that committee member and each other committee member at the
 meeting being simultaneously in contact by telephone or other means of instantaneous
@@ -728,7 +846,9 @@ communication.
 (2) A member who participates in a committee meeting as allowed under subrule (1) is taken to
 be present at the meeting and, if the member votes at the meeting, the member is taken to
 have voted in person.
-45. Quorum for committee meetings
+
+#### 45. Quorum for committee meetings
+
 (1) Subject to rule 38(4), no business is to be conducted at a committee meeting unless a
 quorum is present.
 
@@ -745,7 +865,9 @@ those members present are taken to constitute a quorum.
 Note for this rule:
 If these model rules are adopted, the quorum for a committee meeting is as notified to the Commissioner
 under section 7(4)(d) or 29(5)(d) of the Act.
-46. Voting at committee meetings
+
+#### 46. Voting at committee meetings
+
 (1) Each committee member present at a committee meeting has one vote on any question
 arising at the meeting.
 (2) A motion is carried if a majority of the committee members present at the committee meeting
@@ -757,7 +879,9 @@ disagreement or by a show of hands, unless the committee decides that a secret b
 needed to determine a particular question.
 (5) If a secret ballot is needed, the chairperson of the meeting must decide how the ballot is to be
 conducted.
-47. Minutes of committee meetings
+
+#### 47. Minutes of committee meetings
+
 (1) (2) (3) (4) The committee must ensure that minutes are taken and kept of each committee meeting.
 The minutes must record the following —
 (a) (b) (c) (d) the names of the committee members present at the meeting;
@@ -780,8 +904,12 @@ any appointment purportedly made at the meeting was validly made.
 Note for this rule:
 Section 42(6) of the Act requires details relating to the disclosure of a committee member’s material personal
 interest in a matter being considered at a committee meeting to be recorded in the minutes of the meeting.
-Division 5 — Subcommittees and subsidiary offices
-48. Subcommittees and subsidiary offices
+
+### Division 5 - Subcommittees and subsidiary offices
+
+
+#### 48. Subcommittees and subsidiary offices
+
 (1) To help the committee in the conduct of the Association’s business, the committee may, in
 writing, do either or both of the following —
 (a) appoint one or more subcommittees;
@@ -793,7 +921,9 @@ committee considers appropriate.
 (a) a subcommittee may meet and conduct business as it considers appropriate; and
 (b) the holder of a subsidiary office may carry out the functions given to the holder as the
 holder considers appropriate.
-49. Delegation to subcommittees and holders of subsidiary offices
+
+#### 49. Delegation to subcommittees and holders of subsidiary offices
+
 (1) In this rule —
 non-delegable duty means a duty imposed on the committee by the Act or another written
 law.
@@ -812,8 +942,11 @@ power or duty delegated.
 delegation has the same force and effect as if it had been done by the committee.
 (7) The committee may, in writing, amend or revoke the delegation.
 
-PART 6 — GENERAL MEETINGS OF ASSOCIATION
-50. Annual general meeting
+## PART 6 - GENERAL MEETINGS OF ASSOCIATION
+
+
+#### 50. Annual general meeting
+
 (1) The committee must determine the date, time and place of the annual general meeting.
 (2) If it is proposed to hold the annual general meeting more than 6 months after the end of the
 Association’s financial year, the secretary must apply to the Commissioner for permission
@@ -845,7 +978,9 @@ Note for this rule:
 Unless the Commissioner allows otherwise, under section 50(3) of the Act the annual general meeting must be
 held within 6 months after the end of the Association’s financial year. If it is the first annual general meeting,
 section 50(2) of the Act provides that it may be held at any time within 18 months after incorporation.
-51. Special general meetings
+
+#### 51. Special general meetings
+
 (1) The committee may convene a special general meeting.
 (2) The committee must convene a special general meeting if at least 20% of the members
 require a special general meeting to be convened.
@@ -864,7 +999,9 @@ members making the requirement (or any of them) may convene the special general 
 made.
 (7) The Association must reimburse any reasonable expenses incurred by the members
 convening a special general meeting under subrule (5).
-52. Notice of general meetings
+
+#### 52. Notice of general meetings
+
 (1) The secretary or, in the case of a special general meeting convened under rule 51(5), the
 members convening the meeting, must give to each member —
 (a) at least 21 days’ notice of a general meeting if a special resolution is to be proposed
@@ -890,7 +1027,9 @@ at the meeting.
 Act requirements – Notice to be given to reviewer or auditor – For Tier 2 and 3 associations – under section
 86 of the Act a reviewer or auditor of an incorporated association is entitled to receive all notices of and other
 communications relating to any general meetings of the association that a member is entitled to receive.
-53. Proxies
+
+#### 53. Proxies
+
 (1) Subject to subrule (2), an ordinary member may appoint an individual who is an ordinary
 member as his or her proxy to vote and speak on his or her behalf at a general meeting.
 (2) An ordinary member may be appointed the proxy for not more than 5 other members.
@@ -914,14 +1053,18 @@ proxy.
 general meeting for which the proxy is appointed.
 (9) A form appointing a proxy sent by post or electronically is of no effect unless it is received by
 the Association not later than 24 hours before the commencement of the meeting.
-54. Use of technology to be present at general meetings
+
+#### 54. Use of technology to be present at general meetings
+
 (1) The presence of a member at a general meeting need not be by attendance in person but
 may be by that member and each other member at the meeting being simultaneously in
 contact by telephone or other means of instantaneous communication.
 (2) A member who participates in a general meeting as allowed under subrule (1) is taken to be
 present at the meeting and, if the member votes at the meeting, the member is taken to have
 voted in person.
-55. Presiding member and quorum for general meetings
+
+#### 55. Presiding member and quorum for general meetings
+
 (1) The chairperson or, in the chairperson’s absence, the deputy chairperson must preside as
 chairperson of each general meeting.
 (2) If the chairperson and deputy chairperson are absent or are unwilling to act as chairperson of
@@ -945,7 +1088,9 @@ those members present are taken to constitute a quorum.
 Note for this rule:
 If these model rules are adopted, the quorum for a general meeting is as notified to the Commissioner under
 section 7(4)(c) or 29(5)(c) of the Act.
-56. Adjournment of general meeting
+
+#### 56. Adjournment of general meeting
+
 (1) The chairperson of a general meeting at which a quorum is present may, with the consent of
 a majority of the ordinary members present at the meeting, adjourn the meeting to another
 time at the same place or at another place.
@@ -957,7 +1102,9 @@ business that remained unfinished when the meeting was adjourned.
 (4) Notice of the adjournment of a meeting under this rule is not required unless the meeting is
 adjourned for 14 days or more, in which case notice of the meeting must be given in
 accordance with rule 52.
-57. Voting at general meeting
+
+#### 57. Voting at general meeting
+
 (1) On any question arising at a general meeting —
 (a) subject to subrule (6), each ordinary member has one vote unless the member may
 also vote on behalf of a body corporate under subrule (2); and
@@ -984,7 +1131,9 @@ of an ordinary member that is a body corporate under subrule (2), the ordinary m
 under rule 52; and
 (b) must have paid any fee or other money payable to the Association by the member.
 
-58. When special resolutions are required
+
+#### 58. When special resolutions are required
+
 (1) A special resolution is required if it is proposed at a general meeting —
 (a) to affiliate the Association with another body; or
 (b) to request the Commissioner to apply to the State Administrative Tribunal under
@@ -1003,7 +1152,9 @@ to decide to apply for registration or incorporation as a prescribed body corpor
 (e) to be wound up voluntarily (section 121(2)) or by the Supreme Court (section 124(a) and
 Schedule 4 item 9);
 (f) to cancel its incorporation (section 129).
-59. Determining whether resolution carried
+
+#### 59. Determining whether resolution carried
+
 (1) In this rule —
 poll means the process of voting in relation to a matter that is conducted in writing.
 (2) Subject to subrule (4), the chairperson of a general meeting may, on the basis of general
@@ -1027,7 +1178,9 @@ meeting at a time determined by the chairperson.
 entry is, without proof of the voting in relation to the resolution, evidence of how the resolution
 was determined.
 
-60. Minutes of general meeting
+
+#### 60. Minutes of general meeting
+
 (1) The secretary, or a person authorised by the committee from time to time, must take and
 keep minutes of each general meeting.
 (2) The minutes must record the business considered at the meeting, any resolution on which a
@@ -1052,11 +1205,16 @@ absence of evidence to the contrary, taken to be proof that —
 and
 (c) any election or appointment purportedly made at the meeting was validly made.
 
-PART 7 — FINANCIAL MATTERS
-61. Source of funds
+## PART 7 - FINANCIAL MATTERS
+
+
+#### 61. Source of funds
+
 The funds of the Association may be derived from entrance fees, annual subscriptions, donations,
 fund-raising activities, grants, interest and any other sources approved by the committee.
-62. Control of funds
+
+#### 62. Control of funds
+
 (1) The Association must open an account in the name of the Association with a financial
 institution from which all expenditure of the Association is made and into which all funds
 received by the Association are deposited.
@@ -1071,7 +1229,9 @@ the Association must be signed by —
 (b) one committee member and a person authorised by the committee.
 (5) All funds of the Association must be deposited into the Association’s account within 5 working
 days after their receipt.
-63. Financial statements and financial reports
+
+#### 63. Financial statements and financial reports
+
 (1) For each financial year, the committee must ensure that the requirements imposed on the
 Association under Part 5 of the Act relating to the financial statements or financial report
 of the Association are met.
@@ -1088,15 +1248,20 @@ financial report, as applicable; and
 report of the review or auditor’s report, as applicable, on the financial
 statements or financial report.
 Notes for this rule:
-1. 2. Under section 66 of the Act, an incorporated association must keep financial records that: -
+
+#### 1. 2. Under section 66 of the Act, an incorporated association must keep financial records that: -
+
 (a) (b) correctly record and explain its transactions and financial position and performance; and
 enable true and fair financial statements to be prepared in accordance with Part 5 Division 3 of
 the Act.
 Under section 67 of the Act, an incorporated association must retain its financial records for at least 7
 years after the transactions covered by the records are completed.
 
-PART 8 — GENERAL MATTERS
-64. By-laws
+## PART 8 - GENERAL MATTERS
+
+
+#### 64. By-laws
+
 Guidance Note – Status of By-laws - A by-law must be consistent with the Act, the regulations and these
 rules. The rules of an association bind the association and the members as an enforceable contract
 between them. By-laws may not have that status. Therefore, the use of by-laws should be reserved for
@@ -1118,7 +1283,9 @@ requirements on the Association that are additional to, and do not restrict, a r
 imposed on the Association under Part 5 of the Act.
 (5) At the request of a member, the Association must make a copy of the by-laws available for
 inspection by the member.
-65. Executing documents and common seal
+
+#### 65. Executing documents and common seal
+
 (1) The Association may execute a document without using a common seal if the document is
 signed by —
 (b) (a) 2 committee members; or
@@ -1136,7 +1303,9 @@ presence.
 (4) The common seal must be kept in the custody of the secretary or another committee member
 authorised by the committee.
 
-66. Giving notices to members
+
+#### 66. Giving notices to members
+
 (1) In this rule —
 recorded means recorded in the register of members.
 (2) A notice or other document that is to be given to a member under these rules is taken not to
@@ -1145,14 +1314,18 @@ have been given to the member unless it is in writing and —
 (b) sent by prepaid post to the recorded postal address of the member; or
 (c) sent by facsimile or electronic transmission to an appropriate recorded number or
 recorded electronic address of the member.
-67. Custody of books and securities
+
+#### 67. Custody of books and securities
+
 (1) Subject to subrule (2), the books and any securities of the Association must be kept in the
 secretary’s custody or under the secretary’s control.
 (2) The financial records and, as applicable, the financial statements or financial reports of the
 Association must be kept in the treasurer’s custody or under the treasurer’s control.
 (3) Subrules (1) and (2) have effect except as otherwise decided by the committee.
 (4) The books of the Association must be retained for at least 7 years.
-68. Record of office holders
+
+#### 68. Record of office holders
+
 Act Requirements – Record of office holders
 Under section 58 of the Act an association must maintain a record of —
 • the names and addresses of the persons who are members of its management committee; or hold
@@ -1173,7 +1346,9 @@ committee members and certain others; and
 (b) (c) provides for members to inspect, make a copy of or take an extract from the record; and
 prohibits a person from disclosing information in the record except for authorised purposes.
 
-69. Inspection of records and documents
+
+#### 69. Inspection of records and documents
+
 (1) Subrule (2) applies to a member who wants to inspect —
 (a) the register of members under section 54(1) of the Act; or
 (b) the record of the names and addresses of committee members, and other persons
@@ -1198,14 +1373,18 @@ that is related to complying with a requirement of the Act.
 Note for this subrule:
 Sections 57(1) and 58(5) of the Act impose restrictions on the use or disclosure of information in the
 register referred to in subrule (1)(a) and the record referred to in subrule (1)(b).
-70. Publication by committee members of statements about Association business
+
+#### 70. Publication by committee members of statements about Association business
+
 prohibited
 A committee member must not publish, or cause to be published, any statement about the business
 conducted by the Association at a general meeting or committee meeting unless —
 (a) the committee member has been authorised to do so at a committee meeting; and
 (b) the authority given to the committee member has been recorded in the minutes of the
 committee meeting at which it was given.
-71. Distribution of surplus property on cancellation of incorporation or winding up
+
+#### 71. Distribution of surplus property on cancellation of incorporation or winding up
+
 Act Requirements – Distribution of surplus property
 Under section 24(1) of the Act surplus property can only be distributed to one or more of the following —
 • an incorporated association;
@@ -1235,7 +1414,9 @@ Section 24(1) of the Act sets out a provision that is implied in these rules des
 surplus property of an incorporated association may be distributed on the cancellation of the incorporation or
 the winding up of the association. Part 9 of the Act deals with the winding up of incorporated associations, and
 Part 10 of the Act deals with the cancellation of the incorporation of incorporated associations.
-72. Alteration of rules
+
+#### 72. Alteration of rules
+
 If the Association wants to alter or rescind any of these rules, or to make additional rules, the
 Association may do so only by special resolution and by otherwise complying with Part 3 Division 2 of
 the Act.
