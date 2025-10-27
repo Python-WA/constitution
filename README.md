@@ -1,4 +1,4 @@
-# MODEL RULES AND GUIDANCE NOTES
+# Python Association of Western Australia Constitution
 
 This document includes additional summaries of the obligations arising from the *Associations Incorporation Act 2015* and other explanatory material. These are presented in the form of 'Guidance Notes' and 'Act Requirements'. These summaries do not form part of the model rules. They have been included to assist associations adopting the model rules or modifying them to create a set of own rules to understand each of the various requirements.
 
@@ -16,20 +16,23 @@ If an association or incorporated association approves the adoption of these mod
 
    e. if relevant, the period of the first financial year of the association.
 
-> [!NOTE] "Guidance Note - Information provided to the Commissioner under section 29(5)"
+> [!NOTE] "Guidance Note — Information provided to the Commissioner under section 29(5)"
 > This information is part of the rules of your association and must be attached to the copy of the rules provided to members.
 > 
 > **The information provided to the Commissioner should be inserted here:**
 > 
-> A. The name of the Association is: ....................................
+> A. The name of the Association is: *Python Association of Western Australia*
 > 
-> B. The objects of the Association are: ................................
+> B. The objects of the Association are: 
+>    1. *To build a strong local network of individuals from various domains, who share an interest in Python and its applications*
+>    2. *To provide its members a platform to share and promote Python related knowledge and best practice with the local technical community*
+>    3. *To represent and serve as an industry link between professionals and students within the local and national technical communities , respectively*
 > 
-> C. Any..................................... members personally present (being members entitled to vote under these rules at a general meeting) will constitute a quorum for the conduct of business at a general meeting.
+> C. Any *Six (6)* members personally present (being members entitled to vote under these rules at a general meeting) will constitute a quorum for the conduct of business at a general meeting.
 > 
-> D. Any .....................................committee members constitute a quorum for the conduct of the business of a committee meeting.
+> D. Any *Three (3)* committee members constitute a quorum for the conduct of the business of a committee meeting.
 > 
-> E. The association's financial year will be the period of 12 months commencing on ..........................and ending on.................................... of each year.
+> E. The association's financial year will be the period of 12 months commencing on *1st February* and ending on *31st of January* of each year.
 
 ---
 
