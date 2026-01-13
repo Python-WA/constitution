@@ -875,8 +875,6 @@ The acts of a committee or subcommittee, or of a committee member or member of a
 2. The date, time and place of the first committee meeting must be determined by the committee members as soon as practicable after the annual general meeting at which the committee members are elected.
 
 3. Special committee meetings may be convened by the chairperson or any 2 committee members.
-   
-4. Committee meetings may be conducted online providing all required attendees have provided written agreement
 
 #### 42. Notice of committee meetings
 
@@ -966,7 +964,7 @@ those members present are taken to constitute a quorum.
 
 3. If the votes are divided equally on a question, the chairperson of the meeting has a second or casting vote.
 
-4. A vote may take place by the committee members present indicating their agreement or disagreement or by a show of hands, unless the committee decides that a secret ballot is needed to determine a particular question.
+4. A vote may take place by the committee members present indicating their agreement or disagreement or by a show of hands, or by approved electronic voting method, unless the committee decides that a secret ballot is needed to determine a particular question.
 
 5. If a secret ballot is needed, the chairperson of the meeting must decide how the ballot is to be conducted.
 
@@ -1053,12 +1051,12 @@ those members present are taken to constitute a quorum.
 #### 50. Annual general meeting
 
 1. The committee must determine the date, time and place of the annual general meeting.
-   
-2. The annual general meeting may be conducted online providing all required attendees have provided written agreement
 
-3. If it is proposed to hold the annual general meeting more than 6 months after the end of the Association's financial year, the secretary must apply to the Commissioner for permission under section 50(3)(b) of the Act within 4 months after the end of the financial year.
+   a. the general meeting place may be provided via electronic means rather than a physical location.
 
-4. The ordinary business of the annual general meeting is as follows:
+2. If it is proposed to hold the annual general meeting more than 6 months after the end of the Association's financial year, the secretary must apply to the Commissioner for permission under section 50(3)(b) of the Act within 4 months after the end of the financial year.
+
+3. The ordinary business of the annual general meeting is as follows:
 
    a. to confirm the minutes of the previous annual general meeting and of any special general meeting held since then if the minutes of that meeting have not yet been confirmed;
 
@@ -1078,7 +1076,7 @@ those members present are taken to constitute a quorum.
 
    e. to confirm or vary the entrance fees, subscriptions and other amounts (if any) to be paid by members.
 
-5. Any other business of which notice has been given in accordance with these rules may be conducted at the annual general meeting.
+4. Any other business of which notice has been given in accordance with these rules may be conducted at the annual general meeting.
 
 > [!NOTE]
 > "Note for this rule"
@@ -1120,7 +1118,7 @@ those members present are taken to constitute a quorum.
 
 2. The notice must:
 
-   a. specify the date, time and place of the meeting; and
+   a. specify the date, time and place of the meeting as required by section 50(1); and
 
    b. indicate the general nature of each item of business to be considered at the meeting; and
 
@@ -1286,7 +1284,7 @@ those members present are taken to constitute a quorum.
 
 **poll** means the process of voting in relation to a matter that is conducted in writing.
 
-2. Subject to subrule (4), the chairperson of a general meeting may, on the basis of general agreement or disagreement or by a show of hands, declare that a resolution has been:
+2. Subject to subrule (4), the chairperson of a general meeting may, on the basis of general agreement or disagreement, by a show of hands, or by approved electronic voting method, declare that a resolution has been:
 
    a. carried; or
 
