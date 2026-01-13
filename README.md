@@ -875,6 +875,8 @@ The acts of a committee or subcommittee, or of a committee member or member of a
 2. The date, time and place of the first committee meeting must be determined by the committee members as soon as practicable after the annual general meeting at which the committee members are elected.
 
 3. Special committee meetings may be convened by the chairperson or any 2 committee members.
+   
+4. Committee meetings may be conducted online providing all required attendees have provided written agreement
 
 #### 42. Notice of committee meetings
 
@@ -1051,10 +1053,12 @@ those members present are taken to constitute a quorum.
 #### 50. Annual general meeting
 
 1. The committee must determine the date, time and place of the annual general meeting.
+   
+2. The annual general meeting may be conducted online providing all required attendees have provided written agreement
 
-2. If it is proposed to hold the annual general meeting more than 6 months after the end of the Association's financial year, the secretary must apply to the Commissioner for permission under section 50(3)(b) of the Act within 4 months after the end of the financial year.
+3. If it is proposed to hold the annual general meeting more than 6 months after the end of the Association's financial year, the secretary must apply to the Commissioner for permission under section 50(3)(b) of the Act within 4 months after the end of the financial year.
 
-3. The ordinary business of the annual general meeting is as follows:
+4. The ordinary business of the annual general meeting is as follows:
 
    a. to confirm the minutes of the previous annual general meeting and of any special general meeting held since then if the minutes of that meeting have not yet been confirmed;
 
@@ -1074,7 +1078,7 @@ those members present are taken to constitute a quorum.
 
    e. to confirm or vary the entrance fees, subscriptions and other amounts (if any) to be paid by members.
 
-4. Any other business of which notice has been given in accordance with these rules may be conducted at the annual general meeting.
+5. Any other business of which notice has been given in accordance with these rules may be conducted at the annual general meeting.
 
 > [!NOTE]
 > "Note for this rule"
