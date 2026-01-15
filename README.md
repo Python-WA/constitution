@@ -34,7 +34,7 @@ This document includes additional summaries of the obligations arising from the 
 > 
 > D. Any *Three (3)* committee members constitute a quorum for the conduct of the business of a committee meeting.
 > 
-> E. The association's financial year will be the period of 12 months commencing on *1st February* and ending on *31st of January* of each year.
+> E. The association's financial year will be the period of 12 months commencing on *1st January* and ending on *31st of December* of each year.
 
 ---
 
