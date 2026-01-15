@@ -964,7 +964,7 @@ those members present are taken to constitute a quorum.
 
 3. If the votes are divided equally on a question, the chairperson of the meeting has a second or casting vote.
 
-4. A vote may take place by the committee members present indicating their agreement or disagreement or by a show of hands, unless the committee decides that a secret ballot is needed to determine a particular question.
+4. A vote may take place by the committee members present indicating their agreement or disagreement or by a show of hands, or by approved electronic voting method, unless the committee decides that a secret ballot is needed to determine a particular question.
 
 5. If a secret ballot is needed, the chairperson of the meeting must decide how the ballot is to be conducted.
 
@@ -1052,6 +1052,8 @@ those members present are taken to constitute a quorum.
 
 1. The committee must determine the date, time and place of the annual general meeting.
 
+   a. the general meeting place may be provided via electronic means rather than a physical location.
+
 2. If it is proposed to hold the annual general meeting more than 6 months after the end of the Association's financial year, the secretary must apply to the Commissioner for permission under section 50(3)(b) of the Act within 4 months after the end of the financial year.
 
 3. The ordinary business of the annual general meeting is as follows:
@@ -1116,7 +1118,7 @@ those members present are taken to constitute a quorum.
 
 2. The notice must:
 
-   a. specify the date, time and place of the meeting; and
+   a. specify the date, time and place of the meeting as required by section 50(1); and
 
    b. indicate the general nature of each item of business to be considered at the meeting; and
 
@@ -1282,7 +1284,7 @@ those members present are taken to constitute a quorum.
 
 **poll** means the process of voting in relation to a matter that is conducted in writing.
 
-2. Subject to subrule (4), the chairperson of a general meeting may, on the basis of general agreement or disagreement or by a show of hands, declare that a resolution has been:
+2. Subject to subrule (4), the chairperson of a general meeting may, on the basis of general agreement or disagreement, by a show of hands, or by approved electronic voting method, declare that a resolution has been:
 
    a. carried; or
 
