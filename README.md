@@ -1,4 +1,4 @@
-# Python Association of Western Australia Constitution
+# The Python Association of Western Australia Incorproated Constitution
 
 This document includes additional summaries of the obligations arising from the *Associations Incorporation Act 2015* and other explanatory material. These are presented in the form of 'Guidance Notes' and 'Act Requirements'. These summaries do not form part of the model rules. They have been included to assist associations adopting the model rules or modifying them to create a set of own rules to understand each of the various requirements.
 
